@@ -1,0 +1,1 @@
+[2018-01-19 12:16:00.276] [INFO] admin-log - [32m[D:\spaces\node_space\chatofpomelo-websocket-master\game-server\node_modules\pomelo\lib\master\master.js] [39m{"action":"execute","moduleId":"__console__","method":"clientHandler","msg":{"signal":"list","clientId":"pomelo_list_1516335360225","username":"admin"}}
